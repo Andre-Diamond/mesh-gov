@@ -11,13 +11,6 @@ export default withNextra({
     locales: ["en"],
     defaultLocale: "en",
   },
-  redirects: async () => [
-    {
-      source: "/",
-      destination: "/en",
-      statusCode: 302,
-    },
-  ],
   images: {
     unoptimized: true,
   },
