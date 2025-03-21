@@ -1,4 +1,4 @@
-export const ROOT_URL = "https://mesh-gov.netlify.app/en";
+export const ROOT_URL = "https://mesh-gov.netlify.app";
 
 export const APP_NAME = "Mesh Governance";
 export const APP_DESC = "Resources on Mesh Governance";
